@@ -1,0 +1,14 @@
+D:\Projetos\dotfiles\blazorapp\bin\Debug\net8.0\blazorapp.exe
+D:\Projetos\dotfiles\blazorapp\bin\Debug\net8.0\blazorapp.deps.json
+D:\Projetos\dotfiles\blazorapp\bin\Debug\net8.0\blazorapp.runtimeconfig.json
+D:\Projetos\dotfiles\blazorapp\bin\Debug\net8.0\blazorapp.dll
+D:\Projetos\dotfiles\blazorapp\bin\Debug\net8.0\blazorapp.pdb
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.AssemblyInfoInputs.cache
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.AssemblyInfo.cs
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.csproj.CoreCompileInputs.cache
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.dll
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\refint\blazorapp.dll
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.pdb
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\blazorapp.genruntimeconfig.cache
+D:\Projetos\dotfiles\blazorapp\obj\Debug\net8.0\ref\blazorapp.dll
